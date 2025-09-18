@@ -2,7 +2,7 @@
 
 <p align="left"></p>
 <h2 align="center">Java Backend Developer</h2>
-<p align="center">✨ I have been working on my own projects in Java and using the Spring framework. <br>My goal is to further develop my skills in a professional environment.<br>📚 I'm currently learning sorting algorithms<br>🎯 Goals: Kubernetes, AWS</p>
+<p align="center">✨ I have been working on my own projects in Java and using the Spring framework. <br>⚙️ I systematically develop in the areas of DevOps: Linux/Bash, Git, Docker, CI/CD (GitHub Actions).<br>📚 I'm currently learning sorting algorithms<br>🎯 Goals: Kubernetes, AWS</p>
 <h2 align="center">Stuff I Know</h2>
 
 
