@@ -1,5 +1,5 @@
 <h1>👋 Hi there, I'm Bartek</h1>
-<strong>Full-Stack Developer</strong> from Poland, currently working as an Intern Software Engineer (remote) with Angular & TypeScript applications. <br><br>
+<strong>Full-Stack Developer</strong> from Poland <br><br>
 
 Tech stack: HTML, CSS, JavaScript, TypeScript, Angular, RxJS, NgRx, Java, Spring Boot, Hibernate, NestJS, REST API, Git, GitLab, Docker, Linux/Bash, CI/CD (GitHub Actions) <br>
 Databases I'm familiar with: PostgreSQL, MongoDB <br>
