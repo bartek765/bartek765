@@ -1,3 +1,3 @@
 # 👋 Hi, I'm Bartosz
 
-**AI Full-Stack Developer** building enterprise-grade AI applications globally. Less talk, more code.
+**AI Fullstack Developer** building enterprise-grade AI applications globally. Less talk, more code.
